@@ -1,7 +1,0 @@
-As emacs concept ? 
-
-My first nano experience,
-is it easy to use this tool ?
-
-For editing the config file or source code,
-
